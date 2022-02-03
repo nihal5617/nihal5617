@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
   <h1></h1>
   
-   <a target="_blank"><img align="left" height="300" width="300" alt="GIF" src="https://github.com/dikshantnaik/dikshantnaik/blob/main/github.gif"></a>
+   <a target="_blank"><img align="left" height="300" width="300" alt="GIF" src="https://github.com/nihal5617/nihal5617/blob/main/github1.gif"></a>
   <br/> 
   
    **LANGUAGES AND TOOLS:**  
