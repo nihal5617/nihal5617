@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
  -->
 
-[![Nihal's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nihal5617)](https://git.io/J1Ycx)
+[![Nihal's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nihal5617)](https://github.com/nihal5617)
 
 # Pinned
 <p align="center">
