@@ -59,6 +59,8 @@ Here are some ideas to get you started:
   <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
   <code><img height="40" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg"></code>
   <code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
+  <code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"></code>
+  <code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"></code>
   
    #
   <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
