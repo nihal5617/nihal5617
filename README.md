@@ -52,21 +52,26 @@ Here are some ideas to get you started:
    **LANGUAGES AND TOOLS:**  
   <br/>
   <br/>
-  <code><img height="40" width="40" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png"></code>
-  <code><img height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"></code>
-  </code><code><img height="40" width="40" src="https://www.naveedashfaq.me/img/c++.png"></code>
-  <code><img height="40" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg"></code>
-  <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
-  <code><img height="40" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg"></code>
-  <code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
-  <code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"></code>
-  <code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"></code>
+  <code><a href="https://www.javaprogramming.com"><img height="40" width="40" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png"></a></code>
+  <code><a href="https://www.kotlinprogramming.com"><img height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"></a></code>
+  <code><a href="https://www.cppprogramming.com"><img height="40" width="40" src="https://www.naveedashfaq.me/img/c++.png"></a></code>
+  <code><a href="https://www.cprogramming.com"><img height="40" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg"></a></code>
+  <code><a href="https://www.w3schools.com/html/"><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></a></code>
+  <code><a href="https://www.w3schools.com/css/"><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></a></code>
+  <code><a href="https://www.w3schools.com/js/"><img height="40" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg"></a></code>
+  <code><a href="https://getbootstrap.com/"><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"></a></code>
+  <code><a href="https://www.reactjs.org"><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></a></code>
+  <code><a href="https://www.nodejs.org"><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"></a></code>
+  <code><a href="https://www.mysql.com"><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"></a></code>
+  <code><a href="https://www.mongodb.com"><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"></a></code>
   
    #
   <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
   <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code><!--   <code><img height="40" width="40" src="https://github.com/Knighthawk-Leo/Knighthawk-Leo/blob/main/google-cloud.png"></code> -->
   <code><img height="40" width="40" src="https://github.com/Knighthawk-Leo/Knighthawk-Leo/blob/main/vscode.png"></code>
-   <code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"></code>
+  <code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"></code>
+  <code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg"></code>
+  <code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></code>
   
   <br/>
  <h1 align="center">-:About Me:-</h1>
