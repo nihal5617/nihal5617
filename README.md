@@ -3,14 +3,14 @@
 
 # Hello there! 👋🏻 I am Nihal Gupta! <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
 
-I am Nihal Gupta 🙋🏻‍♂️, a Front End Developer , an Android Developer
+I am Nihal Gupta 🙋🏻‍♂️, a Full Stack Web Developer and an Android App Developer
 
 I am a Kotlin and Java Specialist , I love Competitve Programming 
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Web Development
-- 🌱 I’m currently learning Web Development and Data Structure Algorithm <!-- - 👯 I’m looking to collaborate on ... -->
+- 🌱 I’m currently learning Blockchain and Data Structure Algorithm <!-- - 👯 I’m looking to collaborate on ... -->
 - 🤔 I’m looking for help with Backend
 - 💬 Ask me about Java And Kotlin programming language creating Mobile Apps using Kotlin or Java
 - 📫 How to reach me: <b>Linkedin<b>-<a href='https://www.linkedin.com/in/nihal-gupta-424943208/'>Nihal Gupta</a>  Or <b>Instagram<b>-<a href='https://www.instagram.com/nihal_5617/'>@nihal_5617</a>
@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=nihal5617&repo=Android-Study-Jams&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
 <span>&nbsp;</span>
-<a href="https://github.com/nihal5617/Code-Odyssey-Hackhathon-FarmGrow">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=nihal5617&repo=Code-Odyssey-Hackhathon-FarmGrow&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<a href="https://github.com/nihal5617/Wp-Project-AnimeFlixx">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=nihal5617&repo=Wp-Project-AnimeFlixx&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
 </p>
   
