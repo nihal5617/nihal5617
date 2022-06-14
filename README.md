@@ -67,7 +67,7 @@ Here are some ideas to get you started:
   
    #
   <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
-  <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code><!--   <code><img height="40" width="40" src="https://github.com/Knighthawk-Leo/Knighthawk-Leo/blob/main/google-cloud.png"></code> -->
+  <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code><!--   <code><img height="40" width="40" src=""></code> -->
   <code><img height="40" width="40" src="https://github.com/Knighthawk-Leo/Knighthawk-Leo/blob/main/vscode.png"></code>
   <code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"></code>
   <code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg"></code>
