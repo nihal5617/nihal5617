@@ -37,7 +37,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/nihal5617">
   <img height="125" width="150" src="https://github.com/nihal5617/nihal5617/blob/main/left.png">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nihal5617&theme=dark&hide_border=true"/>
-  <img height="125" width="150" src="https://github.com/Knighthawk-Leo/Knighthawk-Leo/blob/main/right.png">
+  <img height="125" width="150" src="https://github.com/nihal5617/nihal5617/blob/main/right.png">
   </a>
 </p>
   
