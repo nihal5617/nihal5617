@@ -9,10 +9,10 @@ I am a Kotlin and Java Specialist , I love Competitve Programming
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Web Development
-- 🌱 I’m currently learning Blockchain and Data Structure Algorithm <!-- - 👯 I’m looking to collaborate on ... -->
-- 🤔 I’m looking for help with Backend
-- 💬 Ask me about Java And Kotlin programming language creating Mobile Apps using Kotlin or Java
+- 🔭 I’m currently working as an APP Developer
+- 🌱 I’m currently learning Blockchain and ML <!-- - 👯 I’m looking to collaborate on ... -->
+- 🤔 I’m looking for help with Blockchain
+- 💬 Ask me about App and Web Development
 - 📫 How to reach me: <b>Linkedin<b>-<a href='https://www.linkedin.com/in/nihal-gupta-424943208/'>Nihal Gupta</a>  Or <b>Instagram<b>-<a href='https://www.instagram.com/nihal_5617/'>@nihal_5617</a>
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
@@ -59,19 +59,21 @@ Here are some ideas to get you started:
   <code><a href="https://www.w3schools.com/html/"><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></a></code>
   <code><a href="https://www.w3schools.com/css/"><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></a></code>
   <code><a href="https://www.w3schools.com/js/"><img height="40" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg"></a></code>
+  <code><a href="https://www.typescriptlang.org/"><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></a></code>
   <code><a href="https://getbootstrap.com/"><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"></a></code>
   <code><a href="https://www.reactjs.org"><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></a></code>
   <code><a href="https://www.nodejs.org"><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"></a></code>
+  <code><a href="https://ionicframework.com/"><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original-wordmark.svg"></a></code>
   <code><a href="https://www.mysql.com"><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"></a></code>
   <code><a href="https://www.mongodb.com"><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"></a></code>
   
    #
-  <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
-  <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code><!--   <code><img height="40" width="40" src=""></code> -->
-  <code><img height="40" width="40" src="https://github.com/Knighthawk-Leo/Knighthawk-Leo/blob/main/vscode.png"></code>
-  <code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"></code>
-  <code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg"></code>
-  <code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></code>
+  <code><a href="https://git-scm.com/"><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></a></code>
+  <code><a href="https://www.github.com"><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></a></code><!--   <code><img height="40" width="40" src=""></code> -->
+  <code><a href="https://code.visualstudio.com/"><img height="40" width="40" src="https://github.com/Knighthawk-Leo/Knighthawk-Leo/blob/main/vscode.png"></a></code>
+  <code><a href="https://developer.android.com/studio"><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"></a></code>
+  <code><a href="https://www.adobe.com/in/products/xd.html"><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg"></a></code>
+  <code><a href="https://www.figma.com"><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></a></code>
   
   <br/>
  <h1 align="center">-:About Me:-</h1>
