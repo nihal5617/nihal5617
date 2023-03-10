@@ -1,4 +1,4 @@
-<a target="_blank"><img align="center" width="900" alt="GIF" src="https://github.com/nihal5617/nihal5617/blob/main/github.gif"></a>
+<a target="_blank"><img align="center" width="900" height="500" alt="GIF" src="https://github.com/nihal5617/nihal5617/blob/main/github.gif"></a>
   <br/>
 
 # Hello there! 👋🏻 I am Nihal Gupta! <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
