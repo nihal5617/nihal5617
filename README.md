@@ -9,14 +9,12 @@ I am a Kotlin and Java Specialist , I love Competitve Programming
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working as an APP Developer
-- 🌱 I’m currently learning Blockchain and ML <!-- - 👯 I’m looking to collaborate on ... -->
+- 🔭 I’m currently working as an App and Web Developer
+- 🌱 I’m currently learning Blockchain and ML
 - 🤔 I’m looking for help with Blockchain
 - 💬 Ask me about App and Web Development
 - 📫 How to reach me: <b>Linkedin<b>-<a href='https://www.linkedin.com/in/nihal-gupta-424943208/'>Nihal Gupta</a>  Or <b>Instagram<b>-<a href='https://www.instagram.com/nihal_5617/'>@nihal_5617</a>
-<!-- - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
- -->
+
 
 [![Nihal's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nihal5617)](https://activity-graph.herokuapp.com/graph?username=nihal5617)
 
@@ -69,7 +67,7 @@ Here are some ideas to get you started:
   
    #
   <code><a href="https://git-scm.com/"><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></a></code>
-  <code><a href="https://www.github.com"><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></a></code><!--   <code><img height="40" width="40" src=""></code> -->
+  <code><a href="https://www.github.com"><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></a></code>
   <code><a href="https://code.visualstudio.com/"><img height="40" width="40" src="https://github.com/Knighthawk-Leo/Knighthawk-Leo/blob/main/vscode.png"></a></code>
   <code><a href="https://developer.android.com/studio"><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"></a></code>
   <code><a href="https://www.adobe.com/in/products/xd.html"><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg"></a></code>
