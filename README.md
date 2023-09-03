@@ -1,4 +1,4 @@
-<a target="_blank"><img align="center" width="900" height="500" alt="GIF" src="https://github.com/nihal5617/nihal5617/blob/main/github.gif"></a>
+<a target="_blank"><img align="center" width="100%" height="auto" alt="GIF" src="https://github.com/nihal5617/nihal5617/blob/main/github.gif"></a>
   <br/>
 
 # Hello there! 👋🏻 I am Nihal Gupta! <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: <b>Linkedin<b>-<a href='https://www.linkedin.com/in/nihal-gupta-424943208/'>Nihal Gupta</a>  Or <b>Instagram<b>-<a href='https://www.instagram.com/nihal_5617/'>@nihal_5617</a>
 
 
-[![Nihal's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nihal5617)](https://activity-graph.herokuapp.com/graph?username=nihal5617)
+[![Nihal's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nihal5617&bg_color=d090b2&color=793975&line=912b8b&point=454040&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 # Pinned
 <p align="center">
