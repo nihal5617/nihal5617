@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about App and Web Development
 - 📫 How to reach me: <b>Linkedin<b>-<a href='https://www.linkedin.com/in/nihal-gupta-424943208/'>Nihal Gupta</a>  Or <b>Instagram<b>-<a href='https://www.instagram.com/nihal_5617/'>@nihal_5617</a>
 
-![Nihal's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nihal5617&bg_color=d090b2&color=793975&line=912b8b&point=454040&area=true&hide_border=true)
+[![Nihal's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nihal5617&bg_color=d090b2&color=793975&line=912b8b&point=454040&area=true&hide_border=true)](https://github-readme-activity-graph.vercel.app/graph?username=nihal5617)
 
 # Pinned
 <p align="center">
