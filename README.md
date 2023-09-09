@@ -82,10 +82,10 @@ Here are some ideas to get you started:
   
   </div>
     
-  ![](https://github.com/Knighthawk-Leo/Knighthawk-Leo/blob/main/footer.png)
+  ![](https://github.com/nihal5617/nihal5617/blob/main/footer.png)
     
     
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nihal5617&label=Profile%20views&color=0e75b6&style=flat" alt="lingaraj281" /> </p>
- <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+ <img height="120" alt="Thanks for visiting me" width="100%" src="https://github.com/nihal5617/nihal5617/blob/main/marquee.svg" />
 
   
