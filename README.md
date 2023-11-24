@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about App and Web Development
 - 📫 How to reach me: <b>Linkedin<b>-<a href='https://www.linkedin.com/in/nihal-gupta-424943208/'>Nihal Gupta</a>  Or <b>Instagram<b>-<a href='https://www.instagram.com/nihal_5617/'>@nihal_5617</a>
 
-[![Nihal's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nihal5617&bg_color=d090b2&color=793975&line=912b8b&point=454040&area=true&hide_border=true)](https://github-readme-activity-graph.vercel.app/graph?username=nihal5617)
-
 # Pinned
 <p align="center">
 <a href="https://github.com/nihal5617/Android-Study-Jams">
@@ -33,12 +31,12 @@ Here are some ideas to get you started:
   <p align="center">
   <a href="https://github.com/nihal5617">
   <img height="125" width="150" src="https://github.com/nihal5617/nihal5617/blob/main/left.png">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nihal5617&theme=dark&hide_border=true"/>
+    <img align="center" src="https://streak-stats.demolab.com/?user=nihal5617&background=15141B&ring=A177FE&currStreakNum=61FECA&fire=61FECA&sideLabels=A177FE&currStreakLabel=A177FE&dates=61FECA&sideNums=A177FE"/>
   <img height="125" width="150" src="https://github.com/nihal5617/nihal5617/blob/main/right.png">
   </a>
 </p>
   
-  | ![Nihal GitHub Statistics](https://github-readme-stats.vercel.app/api?username=nihal5617&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nihal5617&count_private=true&theme=tokyonight) |
+  | ![Nihal GitHub Statistics](https://github-readme-stats.vercel.app/api?username=nihal5617&show_icons=true&theme=aura) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nihal5617&count_private=true&theme=tokyonight) |
 | --- | --- |
 
   <h1></h1>
@@ -85,7 +83,7 @@ Here are some ideas to get you started:
   ![](https://github.com/nihal5617/nihal5617/blob/main/footer.png)
     
     
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nihal5617&label=Profile%20views&color=0e75b6&style=flat" alt="lingaraj281" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nihal5617&color=a177fe&style=for-the-badge" /> </p>
  <img height="120" alt="Thanks for visiting me" width="100%" src="https://github.com/nihal5617/nihal5617/blob/main/marquee.svg" />
 
   
