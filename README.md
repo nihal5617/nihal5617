@@ -35,9 +35,12 @@ Here are some ideas to get you started:
   <img height="125" width="150" src="https://github.com/nihal5617/nihal5617/blob/main/right.png">
   </a>
 </p>
-  
-  | ![Nihal GitHub Statistics](https://github-readme-stats.vercel.app/api?username=nihal5617&show_icons=true&theme=aura) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nihal5617&count_private=true&theme=tokyonight) |
-| --- | --- |
+
+  <p align="center">
+  <a href="https://github.com/nihal5617">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihal5617&count_private=true&theme=tokyonight"/>
+  </a>
+</p>
 
   <h1></h1>
   
@@ -50,10 +53,10 @@ Here are some ideas to get you started:
   <code><a href="https://www.javaprogramming.com"><img height="40" width="40" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png"></a></code>
   <code><a href="https://www.kotlinprogramming.com"><img height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"></a></code>
   <code><a href="https://www.cppprogramming.com"><img height="40" width="40" src="https://www.naveedashfaq.me/img/c++.png"></a></code>
-  <code><a href="https://www.cprogramming.com"><img height="40" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg"></a></code>
+  <code><a href="https://www.cprogramming.com"><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></a></code>
   <code><a href="https://www.w3schools.com/html/"><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></a></code>
   <code><a href="https://www.w3schools.com/css/"><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></a></code>
-  <code><a href="https://www.w3schools.com/js/"><img height="40" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg"></a></code>
+  <code><a href="https://www.w3schools.com/js/"><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></a></code>
   <code><a href="https://www.typescriptlang.org/"><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></a></code>
   <code><a href="https://getbootstrap.com/"><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"></a></code>
   <code><a href="https://www.reactjs.org"><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></a></code>
@@ -64,8 +67,8 @@ Here are some ideas to get you started:
   
    #
   <code><a href="https://git-scm.com/"><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></a></code>
-  <code><a href="https://www.github.com"><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></a></code>
-  <code><a href="https://code.visualstudio.com/"><img height="40" width="40" src="https://github.com/Knighthawk-Leo/Knighthawk-Leo/blob/main/vscode.png"></a></code>
+  <code><a href="https://www.github.com"><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></a></code>
+  <code><a href="https://code.visualstudio.com/"><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></a></code>
   <code><a href="https://developer.android.com/studio"><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"></a></code>
   <code><a href="https://www.adobe.com/in/products/xd.html"><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg"></a></code>
   <code><a href="https://www.figma.com"><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></a></code>
